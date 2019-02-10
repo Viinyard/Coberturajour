@@ -1,0 +1,11 @@
+fr/istic/vv/maven/javassist/ClassNameJarIterator.class
+fr/istic/vv/maven/javassist/ClassNameDirectoryIterator.class
+fr/istic/vv/maven/javassist/ILogger.class
+fr/istic/vv/maven/javassist/JavassistMojo.class
+fr/istic/vv/maven/javassist/TransformationException.class
+fr/istic/vv/maven/javassist/IsDirectoryPredicate.class
+fr/istic/vv/maven/javassist/InstrumenterTransformer.class
+fr/istic/vv/maven/javassist/ClassTransformer.class
+fr/istic/vv/maven/javassist/ClassFileIterator.class
+fr/istic/vv/maven/javassist/ClassNameDirectoryIterator$1.class
+fr/istic/vv/maven/javassist/Instrumenting.class

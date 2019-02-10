@@ -1,0 +1,11 @@
+/Users/VinYarD/Documents/ISTIC/M1/S2/IPR/maven-javassist/javassist-maven-plugin/src/main/java/fr/istic/vv/maven/javassist/ClassTransformer.java
+/Users/VinYarD/Documents/ISTIC/M1/S2/IPR/maven-javassist/javassist-maven-plugin/src/main/java/fr/istic/vv/maven/javassist/JavassistMojo.java
+/Users/VinYarD/Documents/ISTIC/M1/S2/IPR/maven-javassist/javassist-maven-plugin/src/main/java/fr/istic/vv/maven/javassist/TransformationException.java
+/Users/VinYarD/Documents/ISTIC/M1/S2/IPR/maven-javassist/javassist-maven-plugin/src/main/java/fr/istic/vv/maven/javassist/ClassNameDirectoryIterator.java
+/Users/VinYarD/Documents/ISTIC/M1/S2/IPR/maven-javassist/javassist-maven-plugin/target/generated-sources/plugin/HelpMojo.java
+/Users/VinYarD/Documents/ISTIC/M1/S2/IPR/maven-javassist/javassist-maven-plugin/src/main/java/fr/istic/vv/maven/javassist/ClassFileIterator.java
+/Users/VinYarD/Documents/ISTIC/M1/S2/IPR/maven-javassist/javassist-maven-plugin/src/main/java/fr/istic/vv/maven/javassist/Instrumenting.java
+/Users/VinYarD/Documents/ISTIC/M1/S2/IPR/maven-javassist/javassist-maven-plugin/src/main/java/fr/istic/vv/maven/javassist/InstrumenterTransformer.java
+/Users/VinYarD/Documents/ISTIC/M1/S2/IPR/maven-javassist/javassist-maven-plugin/src/main/java/fr/istic/vv/maven/javassist/ILogger.java
+/Users/VinYarD/Documents/ISTIC/M1/S2/IPR/maven-javassist/javassist-maven-plugin/src/main/java/fr/istic/vv/maven/javassist/ClassNameJarIterator.java
+/Users/VinYarD/Documents/ISTIC/M1/S2/IPR/maven-javassist/javassist-maven-plugin/src/main/java/fr/istic/vv/maven/javassist/IsDirectoryPredicate.java
